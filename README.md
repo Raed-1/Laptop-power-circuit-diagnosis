@@ -15,5 +15,5 @@ This is a simple log of a hardware issue I found in my ASUS ROG G731 laptop.
 
 ## Images:
 
-  ----> images/board.jpg
-  ----> images/full_setup.jpg
+  [---->] (images/board.jpg)
+  [---->] (images/full_setup.jpg)
