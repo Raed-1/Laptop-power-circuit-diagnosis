@@ -13,10 +13,10 @@ This is a simple log of a hardware issue I found in my ASUS ROG G731 laptop.
 
 
 
-## Images:
+
 
  ## Images
 
 ![Full Setup](images/full_setup.jpg)
 
-![Burned Power Circuit](images/borad.jpg)
+![Burned Power Circuit](images/board.jpg)
